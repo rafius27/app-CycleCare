@@ -1,2 +1,2 @@
 # app-CycleCare
-Projeto criado via Lasy - app-anticoncepcional
+Projeto criado via Lasy - CycleCare
